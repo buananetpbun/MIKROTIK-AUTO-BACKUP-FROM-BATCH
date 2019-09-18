@@ -49,7 +49,7 @@ Easy backup mikrotik (.backup) only use BATCH Windows
  :: upload script  
  ftp -n -s:ftp.dat %ip%&gt; NUL  
  echo.  
- echo *** Backup %name%.backup on PC done!  
+ echo *** Backup and Download %name%.backup on PC done!  
  echo.  
  :: cleanup  
  del /q ftp.dat  
