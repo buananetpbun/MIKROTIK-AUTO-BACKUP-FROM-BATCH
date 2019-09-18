@@ -57,13 +57,12 @@ echo quit>> ftp.dat
 ftp -n -s:ftp.dat %ip%> NUL
 
 echo.
-echo  *** Backup %name%.backup on PC done!
+echo  *** Backup and Download %name%.backup on PC done!
 echo.
 
 :: cleanup
 del /q ftp.dat
 del /q script.backup.rsc
-
 echo.&pause&goto:eof
 
 :no
