@@ -15,7 +15,7 @@ echo  ================================================
 echo  EASY BACKUP MIKROTIK FROM BATCH	
 echo  ================================================
 echo  By: Buananet SECURE! 2019
-echo  fb.com/buananet.pangkalanbun
+echo  fb.com/buananet.pbun
 echo  ------------------------------------------------
 echo.
 
