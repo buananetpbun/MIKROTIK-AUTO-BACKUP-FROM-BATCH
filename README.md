@@ -61,3 +61,5 @@ Easy backup mikrotik (.backup) only use BATCH Windows
  del /q script.backup.rsc  
  echo.&amp;pause&amp;goto:eof  
 </code></pre>
+
+<img style="float:right; padding-top:10px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbuananetpbun.github.io%2F&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
