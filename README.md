@@ -1,8 +1,8 @@
-# MIKROTIK-AUTO--BACKUP-FROM-BATCH
+# MIKROTIK AUTO BACKUP FROM BATCH
+
 Easy backup mikrotik (.backup) only use BATCH Windows
 
 <img border="0" src="https://4.bp.blogspot.com/-6YNou3t1fXw/XYHV1Swp2eI/AAAAAAAAAe8/Y9dB8nDltT0uWl8uC4gCQls9cT88iGjLACLcBGAsYHQ/s1600/mikrotik%2Bbackup.png" />
-
 
 <pre  style="font-family:arial;font-size:12px;border:1px dashed #CCCCCC;width:99%;height:auto;overflow:auto;background:#f0f0f0;;background-image:URL(http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif);padding:0px;color:#000000;text-align:left;line-height:20px;"><code style="color:#000000;word-wrap:normal;"> @echo off  
  :: Set username and password mikrotik (with full access)  
